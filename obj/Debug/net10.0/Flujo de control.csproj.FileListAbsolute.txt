@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\bin\Debug\net10.0\Flujo de control.exe
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\bin\Debug\net10.0\Flujo de control.deps.json
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\bin\Debug\net10.0\Flujo de control.runtimeconfig.json
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\bin\Debug\net10.0\Flujo de control.dll
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\bin\Debug\net10.0\Flujo de control.pdb
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.AssemblyInfo.cs
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.dll
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\refint\Flujo de control.dll
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.pdb
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\Flujo de control.genruntimeconfig.cache
+C:\Users\user\Downloads\C#\Flujo de control\Flujo de control\obj\Debug\net10.0\ref\Flujo de control.dll
